@@ -1,7 +1,3 @@
-Ось оновлений варіант з безкоштовними ресурсами для навчання:  
-
----
-
 ### **Essential HTML Tags Every Developer Should Know**  
 
 Hello, fellow developers! Today, let's dive into the fundamental HTML tags that shape the web. These aren't just syntax—they're the building blocks of the digital world. 🚀  
