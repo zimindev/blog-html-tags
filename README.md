@@ -1,6 +1,10 @@
+Ось оновлена версія з активними посиланнями:  
+
+---
+
 ### **Essential HTML Tags Every Developer Should Know**  
 
-Hello, fellow developers! Today, let’s dive into the fundamental HTML tags that shape the web. These aren’t just syntax—they’re the building blocks of the digital world. 🚀  
+Hello, fellow developers! Today, let's dive into the fundamental HTML tags that shape the web. These aren't just syntax—they're the building blocks of the digital world. 🚀  
 
 ### 🔥 **Core Tags for Web Development**  
 
@@ -20,7 +24,7 @@ The tag that makes the web interconnected. Without links, the internet would be 
 The visual backbone of the web—from simple images to complex responsive graphics.  
 
 **📌 `<p>`**  
-The foundation of text content. Paragraphs aren’t just line breaks—they structure readability.  
+The foundation of text content. Paragraphs aren't just line breaks—they structure readability.  
 
 **📌 `<ul>` / `<ol>`**  
 Lists—a powerful tool for organizing information (from navigation menus to complex hierarchies).  
@@ -34,10 +38,10 @@ Was it the classic `<h1>` you first rendered in a browser, or maybe `<button>` t
 ---  
 ### 📚 **Top Resources for Deep Learning**  
 
-- **MDN Web Docs** – The most comprehensive web technology documentation.  
-- **W3Schools** – Interactive examples for quick learning.  
-- **freeCodeCamp** – Free courses with hands-on coding challenges.  
-- **HTML Living Standard** – The latest specs by WHATWG.  
+- **[MDN Web Docs](https://developer.mozilla.org/)** – The most comprehensive web technology documentation.  
+- **[W3Schools](https://www.w3schools.com/)** – Interactive examples for quick learning.  
+- **[freeCodeCamp](https://www.freecodecamp.org/)** – Free courses with hands-on coding challenges.  
+- **[HTML Living Standard](https://html.spec.whatwg.org/)** – The latest specs by WHATWG.  
 
 ```html
 <!DOCTYPE html>
@@ -53,5 +57,3 @@ Was it the classic `<h1>` you first rendered in a browser, or maybe `<button>` t
 </body>
 </html>
 ```  
-
-HTML is just the first step. What’s next? CSS for styling, JavaScript for logic, and then—a whole universe of frameworks and tools. Questions, discussions, and your experiences are welcome! 💻🔥
