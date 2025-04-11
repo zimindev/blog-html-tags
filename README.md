@@ -28,9 +28,6 @@ Lists—a powerful tool for organizing information (from navigation menus to com
 **📌 `<div>`**  
 The universal container—the backbone of modern layouts, CSS grids, and JavaScript interactions.  
 
-### 💡 **Which HTML Tag Started Your Coding Journey?**  
-Was it the classic `<h1>` you first rendered in a browser, or maybe `<button>` that made your code interactive? Share your story in the comments!  
-
 ---  
 ### 📚 **Free Learning Resources**  
 
