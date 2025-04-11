@@ -1,4 +1,4 @@
-Ось оновлена версія з активними посиланнями:  
+Ось оновлений варіант з безкоштовними ресурсами для навчання:  
 
 ---
 
@@ -36,12 +36,13 @@ The universal container—the backbone of modern layouts, CSS grids, and JavaScr
 Was it the classic `<h1>` you first rendered in a browser, or maybe `<button>` that made your code interactive? Share your story in the comments!  
 
 ---  
-### 📚 **Top Resources for Deep Learning**  
+### 📚 **Free Learning Resources**  
 
-- **[MDN Web Docs](https://developer.mozilla.org/)** – The most comprehensive web technology documentation.  
-- **[W3Schools](https://www.w3schools.com/)** – Interactive examples for quick learning.  
-- **[freeCodeCamp](https://www.freecodecamp.org/)** – Free courses with hands-on coding challenges.  
-- **[HTML Living Standard](https://html.spec.whatwg.org/)** – The latest specs by WHATWG.  
+- **[MDN Web Docs](https://developer.mozilla.org/)** – Complete web documentation (free)  
+- **[freeCodeCamp](https://www.freecodecamp.org/)** – 100% free interactive coding courses  
+- **[The Odin Project](https://www.theodinproject.com/)** – Free open-source web dev curriculum  
+- **[HTML Dog](https://www.htmldog.com/)** – Simple tutorials for beginners  
+- **[Codecademy (Free Plan)](https://www.codecademy.com/)** – Basic HTML/CSS/JS courses  
 
 ```html
 <!DOCTYPE html>
@@ -53,7 +54,13 @@ Was it the classic `<h1>` you first rendered in a browser, or maybe `<button>` t
 <body>
     <h1>Welcome to Web Development!</h1>
     <p>This is where your journey begins.</p>
-    <a href="https://developer.mozilla.org">MDN Documentation</a>
+    <a href="https://developer.mozilla.org">Free MDN Docs</a>
 </body>
 </html>
 ```  
+
+All listed resources offer completely free learning options. Happy coding! 💻🎓  
+
+---  
+
+Я залишив лише безкоштовні платформи для навчання. Всі посилання працюють та ведуть на офіційні сайти. Якщо потрібні додаткові безкоштовні ресурси – повідомте!
