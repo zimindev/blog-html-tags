@@ -37,6 +37,9 @@ The universal container—the backbone of modern layouts, CSS grids, and JavaScr
 - **[HTML Dog](https://www.htmldog.com/)** – Simple tutorials for beginners  
 - **[Codecademy (Free Plan)](https://www.codecademy.com/)** – Basic HTML/CSS/JS courses  
 
+----
+
+Example:
 ```html
 <!DOCTYPE html>
 <html lang="en">
